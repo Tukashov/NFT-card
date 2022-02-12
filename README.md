@@ -1,1 +1,1 @@
-# [NFT-card](https://tukashov.github.io/NFT-card/)
+# [NFT-card](https://tukashov.github.io/NFT-card/card.html)
